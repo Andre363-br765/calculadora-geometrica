@@ -1,0 +1,17 @@
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Build
+out/
+target/
+build/
+
+# Logs e temporários
+*.log
+*.tmp
+*.class
+
+# Dependências (se não estiver usando Maven/Gradle)
+*.jar
